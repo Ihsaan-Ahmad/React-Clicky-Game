@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import Card from "./components/card/card";
-import Wrapper from "./components/main/main";
+import Main from "./components/main/main";
 import Header from "./components/header/header";
 import cards from "./cards.json";
 import "./App.css";
@@ -46,7 +46,7 @@ class App extends Component {
   // Map over this.state.cards and render a cardCard component for each card object
   render() {
     return (
-      <Wrapper>
+      <Main>
         <Header score={this.state.score} highscore={this.state.highscore}>
           Clicky Game
         </Header>
@@ -58,7 +58,7 @@ class App extends Component {
             image={card.image}
           />
         ))}
-      </Wrapper>
+      </Main>
     );
   }
 }

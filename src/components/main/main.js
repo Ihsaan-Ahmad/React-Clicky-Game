@@ -1,7 +1,7 @@
 import React from "react";
 import "./main.css";
 
-const Wrapper = props => (
+const Main = props => (
   <div>
     <main className="content">{props.children}</main>;
     <div>
@@ -20,4 +20,4 @@ const Wrapper = props => (
   </div>
 );
 
-export default Wrapper;
+export default Main;
