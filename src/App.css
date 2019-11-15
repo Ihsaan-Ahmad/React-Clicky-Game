@@ -1,0 +1,59 @@
+body {
+  background-image: url("https://cdn2.vectorstock.com/i/1000x1000/61/71/binary-code-dark-background-big-data-and-vector-17996171.jpg");
+}
+
+/* .navbar {
+  opacity: 70%;
+  border: solid;
+  color: #cccccc;
+  border-color: darkblue;
+  background-color: black;
+  border-top: solid darkblue;
+  min-height: 70px;
+  left: 0;
+  width: 100%;
+  font-size: calc(10px + 14 * (100vw - 320px) / 800);
+  z-index: 99;
+  white-space: nowrap;
+}
+
+.navbar li {
+  display: inline-block;
+  padding: 20px;
+  width: 33.3%;
+  text-align: center;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+header {
+  opacity: 70%;
+  color: #cccccc;
+  text-align: center;
+}
+
+.container p {
+  opacity: 70%;
+  color: #cccccc;
+}
+
+ul {
+  list-style-type: disc;
+} */
+
+footer {
+  opacity: 70%;
+  margin-top: 115px;
+  border: solid;
+  color: #cccccc;
+  border-color: darkblue;
+  background-color: black;
+  text-align: center;
+  padding: 2px;
+  border-top: solid darkblue;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
