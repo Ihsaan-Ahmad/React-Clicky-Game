@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "//ihsaan-ahmad.github.io/React-Clicky-Game/static/css/main.73c11658.chunk.css",
+    "main.js": "//ihsaan-ahmad.github.io/React-Clicky-Game/static/js/main.a01c48e5.chunk.js",
+    "main.js.map": "//ihsaan-ahmad.github.io/React-Clicky-Game/static/js/main.a01c48e5.chunk.js.map",
+    "runtime-main.js": "//ihsaan-ahmad.github.io/React-Clicky-Game/static/js/runtime-main.5eea1154.js",
+    "runtime-main.js.map": "//ihsaan-ahmad.github.io/React-Clicky-Game/static/js/runtime-main.5eea1154.js.map",
+    "static/js/2.052cdbb2.chunk.js": "//ihsaan-ahmad.github.io/React-Clicky-Game/static/js/2.052cdbb2.chunk.js",
+    "static/js/2.052cdbb2.chunk.js.map": "//ihsaan-ahmad.github.io/React-Clicky-Game/static/js/2.052cdbb2.chunk.js.map",
+    "index.html": "//ihsaan-ahmad.github.io/React-Clicky-Game/index.html",
+    "precache-manifest.0e45cf6e55abc62a1b0e2eac0c7ff745.js": "//ihsaan-ahmad.github.io/React-Clicky-Game/precache-manifest.0e45cf6e55abc62a1b0e2eac0c7ff745.js",
+    "service-worker.js": "//ihsaan-ahmad.github.io/React-Clicky-Game/service-worker.js",
+    "static/css/main.73c11658.chunk.css.map": "//ihsaan-ahmad.github.io/React-Clicky-Game/static/css/main.73c11658.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5eea1154.js",
+    "static/js/2.052cdbb2.chunk.js",
+    "static/css/main.73c11658.chunk.css",
+    "static/js/main.a01c48e5.chunk.js"
+  ]
+}
